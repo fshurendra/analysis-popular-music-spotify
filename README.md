@@ -1,2 +1,2 @@
-# analysis-popular-music-spotify
-Analysis Popular Music From Spotify Using API with Python 
+# analysis-popular-songs-artists-spotify
+Analysis Popular Songs & Artists 2022 From Spotify Using API with Python 
